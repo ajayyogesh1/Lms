@@ -1,2 +1,2 @@
-django == 2.2.12
+django == 2.2.20
 django-nested-inline == 0.4.2
